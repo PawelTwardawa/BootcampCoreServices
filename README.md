@@ -26,6 +26,6 @@ Dla raportu ```k. Zamówienia w podanym przedziale cenowym``` wymagane jest poda
 
 ![App](https://user-images.githubusercontent.com/36955413/55014244-e6861800-4fea-11e9-82e6-90bee4790daf.PNG)
 
-## Sortowanie
+### Sortowanie
 Sortowanie jest dostępne tylko dla raportów które zawierają więc niż jeden wiersz.
 Sortowanie odbywa się za pomocą wybrania odpowiedniej kolumny na liście rozwijanej, według której chcemy posortować dane. Następnie wybieramy typ sortowania (Rosnąco/Malejąco). Gdy wszystkie opcje zostały ustawione według naszych preferencji, wciśnięcie przycisku ```Generuj``` odpowiednio posortuje dane.
